@@ -11,7 +11,7 @@
 # The labels that trigger builds are:
 # 36 - Build(for changes to the building process,
 # 14 - Release(ensure wheels build before release)
-name: Wheel builder
+name: Wheel builder test
 
 on:
   schedule:
